@@ -1,0 +1,49 @@
+What Is a Mobile Network?
+Many people believe that when you say ''mobile network'' you are referring to a wireless network. 
+In actuality, a mobile network and a wireless network are two different types of networks. 
+A mobile network is a communications network that is spread out over an immense land area around the world and connected wirelessly by transceivers at fixed locations that are known as cell sites, or base stations.
+Transceivers communicate wirelessly based on the old principle of radio signals. 
+Radio signals are electromagnetic radiation that includes light and infrared waves. These signals are considered to be transverse waves in that they have a frequency and a wavelength.
+Wavelengths are measured in the distance between the peaks of sequential waves, and the frequency is the number of cycles per second. 
+To calculate the speed of a transverse wave, you multiply the wavelength and the frequency.
+Mobile vs. Other Networks
+While a mobile network and a wireless network perform similar functions, they are completely different networks. 
+A mobile network commonly is described as a physical device that can be taken anywhere. 
+It is composed of a battery to provide power and must have some type of mobile network connectivity in order for the device to operate in order to send and receive data without having to attach the device to a hardware base.
+A wireless network does not indicate a physical device. 
+Wireless means having access to a wireless network such as a local area network (LAN), wide area network (WAN), or a 4G/3G cellular network. 
+You take what used to connect through a router and cable and make that connection wireless. 
+These types of networks still require some type of physical hardware within close proximity to have a physical connection to a power supply and a router or network node in order to communicate.
+A wireless network provides a fixed or portable endpoint to gain access to a distributed network. 
+A mobile network, on the other hand, provides access to the distributed networks, through a portable device that allows you to travel anywhere, as long as there is sufficient coverage.
+Components of a Mobile Network
+There are four main components of a mobile network that work together to provide service to mobile carriers.
+Public Switched Telephone Network
+A public switched telephone network (PSTN) is made up of multiple interlocking components that communicate worldwide. 
+These components consist of local networks, exchange area networks, and long-haul networks. 
+Exchange area networks are digital telecommunication networks that allow networked nodes to exchange or share resources between each other with or without a direct connection. 
+Long-haul networks are those that that have to travel over large distances, such as interstate or international communications.
+The Mobile Data Network (MDN) is a secure, digital.
+Data switching telecommunications network that provides connectivity between mobile data equipped emergency service resources in the field, their corporate databases and the ESTA call-taking and dispatch environment. During 2015-16 ESTA supported 10.04 million data transactions on the Mobile Data Network (MDN).
+The MDN enables the efficient dispatch of events to field resources.
+In-field enquiry functionality for corporate databases such as the LEAP used by Victoria Police.
+Automatic Vehicle Location which facilitates both the identification of the closest appropriate emergency service resource to an event.
+In addition to personnel duress alerting that also provides the location of an agency resource under duress.
+Network Performance
+The increased use of handheld data terminals is the main driver for the upward trend of transactions and is projected to continue as increased agency productivity and statewide service availability drives the service demand.
+Network activity
+A significant function of the MDN is to provide access to ESTA’s CTD network and the LEAP database administered by the Sheriff’s Office. 
+The MDN processed the following transactions throughout the 2015-16 period:
+The GSM Association estimated in 2011 that technologies defined in the GSM standard served 80% of the mobile market, encompassing more than 5 billion people across more than 212 countries and territories.
+Making GSM the most ubiquitous of the many standards for cellular networks.
+GSM is a second-generation (2G) standard employing time-division multiple-Access (TDMA) spectrum-sharing. 
+Issued by the European Telecommunications Standards Institute (ETSI). 
+The GSM standard does not include the 3G Universal Mobile Telecommunications System (UMTS) code division multiple access (CDMA) technology.
+Nor the 4G LTE orthogonal frequency-division multiple access (OFDMA) technology standards issued by the 3GPP.
+GSM, for the first time, set a common standard for Europe for wireless networks. It was also adopted by many countries outside Europe. 
+This allowed subscribers to use other GSM networks that have roaming agreements with each other. 
+The common standard reduced research and development costs, since hardware and software could be sold with only minor adaptations for the local market.
+I need to unlock my phone.
+What is the PUK code of my phone.
+looking for the my phones PUK code.
+PUK code please
